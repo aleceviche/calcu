@@ -1,0 +1,19 @@
+#boton {
+    height: 30px;
+    width: 35px;
+    background-color: rgb(241, 114, 114);
+}
+#botonOP {
+    height: 30px;
+    width: 35px;
+    background-color: rgb(127, 216, 186);
+}
+#pantalla {
+    background-color: rgb(214, 209, 209);
+    height: 40px;
+    width: 200px;
+}
+
+#tabla {
+    background-color: black
+}
